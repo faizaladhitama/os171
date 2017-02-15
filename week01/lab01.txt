@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 faizal.adhitama StafCS 4096 Feb 15 20:17 .
+drwx--x--x  3 faizal.adhitama StafCS 4096 Feb 15 20:10 ..
+drwxr-xr-x  8 faizal.adhitama StafCS 4096 Feb 15 20:16 .git
+drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 20:01 key
+-rw-r--r--  1 faizal.adhitama StafCS    0 Feb 15 20:17 lab01.txt
+drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 20:01 log
+-rw-r--r--  1 faizal.adhitama StafCS    7 Feb 15 19:44 README.md
+drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 20:05 sandbox
+drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 20:14 week00
+drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 19:50 week01
+drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 19:51 week02
+drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 19:51 week03
+drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 19:51 week04
+drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 19:51 week05
+drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 19:51 week06
+drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 19:52 week07
+drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 19:52 week08
+drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 19:52 week09
+drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 19:52 week10
+drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 20:01 xtra
+/home/fasilkom/mahasiswa/f/faizal.adhitama/os171/week01
