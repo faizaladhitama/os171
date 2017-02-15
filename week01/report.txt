@@ -1,5 +1,5 @@
 #Faizal Adhitama Prabowo
 
-Create 15 folders on OS171 then create dummy file on each folder that were created, then create report file about week 00
+Create 15 folders on OS171 then create dummy file on each folder that were created, then create report file about week 00.
 Record contents from directory os171 to lab01.txt, then move lab01.txt to folder "week01" and record current directory to lab01.txt using "append".
-Create myExpectation.txt and fill it with my expectation about OS class and create report file about week 01
+Create myExpectation.txt and fill it with my expectation about OS class and create a simple script.

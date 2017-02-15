@@ -20,3 +20,4 @@ drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 19:52 week09
 drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 19:52 week10
 drwxr-xr-x  2 faizal.adhitama StafCS 4096 Feb 15 20:01 xtra
 /home/fasilkom/mahasiswa/f/faizal.adhitama/os171/week01
+Today is 15 Feb 2017 at 20:59:21
