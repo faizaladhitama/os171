@@ -1,0 +1,32 @@
+w01-170214-08-LR-Watching Bash Scripting Lesson 1-2, From :https://www.youtube.com/watch?v=Djgrtlv4cng and https://www.youtube.com/watch?v=mZXO0iPLaB8
+w01-170214-08-LR-Watching Bash Scripting Lesson 3-5, From :https://www.youtube.com/watch?v=zfeTwJBi6gY, https://www.youtube.com/watch?v=U2NA2pcvWlM, and https://www.youtube.com/watch?v=C2LPwIvIEjo
+w01-170214-09-LR-Watching Bash Scripting Lesson 6-8, From :https://www.youtube.com/watch?v=U3ELtnLOzKE, https://www.youtube.com/watch?v=7vJd5sAMR_0, and https://www.youtube.com/watch?v=0btsvoSt76M&t=2s
+w01-170214-09-LR-Watching Bash Scripting Lesson 9-11, From :https://www.youtube.com/watch?v=GBMiQeEzTks, https://www.youtube.com/watch?v=OecFFZpIkDc, and https://www.youtube.com/watch?v=nNJoOo0pln4
+w01-170214-10-LR-Watching Intellectual Property video #1-#3 by CrashCourse, From :https://www.youtube.com/watch?v=RQOJgEA5e1k&index=1&list=PL8dPuuaLjXtMwV2btpcij8S3YohW9gUGN
+w01-170214-10-LR-Watching Intellectual Property video #4-#7 by CrashCourse, From :https://www.youtube.com/watch?v=RrN7IxvAJto&list=PL8dPuuaLjXtMwV2btpcij8S3YohW9gUGN&index=4
+w01-170214-16-LR-Watching demo from lecturer
+w01-170214-16-LR-Watching demo from lecturer
+w01-170214-17-LR-Watching demo from lecturer
+w01-170214-17-LR-Watching demo from lecturer
+w01-170214-21-LR-Watching Operating System Course 1-5, From :https://www.youtube.com/watch?v=5AjReRMoG3Y&index=1&list=PLmbPuZ0NsyGS8ef6zaHd2qYylzsHxL63x
+w01-170214-21-LR-Reading slide "week-02-HKI" and "week-02-scripting-1"
+w01-170214-22-LR-Reading slide "week-02-scripting-2"
+w01-170214-22-LR-Reading slide "week-02-scripting-3"
+w01-170215-19-PS-Doing lab session
+w01-170215-19-PS-Doing lab session
+w01-170215-20-PS-Doing lab session
+w01-170215-20-PS-Doing lab session
+w01-170215-21-PS-Doing lab session
+w01-170215-21-PS-Doing lab session
+w01-170215-22-PS-Scripting exercises
+w01-170215-22-PS-Scripting exercises
+w01-170215-23-PS-Scripting exercises
+w01-170215-23-PS-Scripting exercises
+w01-170216-16-LR-Watching demo from lecturer
+w01-170216-16-LR-Watching demo from lecturer
+w01-170216-17-LR-Watching demo from lecturer
+w01-170216-17-LR-Watching demo from lecturer
+w01-170218-08-PS-Scripting exercises
+w01-170218-08-PS-Scripting exercises
+w01-170218-09-PS-Scripting exercises
+w01-170218-09-PS-Scripting exercises
