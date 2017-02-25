@@ -30,7 +30,3 @@ w02-170225-08-PS-GPG exercises
 w02-170225-08-PS-GPG exercises
 w02-170225-09-PS-GPG exercises
 w02-170225-09-PS-GPG exercises
-<<<<<<< HEAD
-
-=======
->>>>>>> f93338ddfd85119f5b3af737aaa8f07f4a9a63de
