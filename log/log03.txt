@@ -1,0 +1,30 @@
+w03-170228-16-LR-Watching demo from lecturer
+w03-170228-16-LR-Watching demo from lecturer
+w03-170228-17-LR-Watching demo from lecturer
+w03-170228-17-LR-Watching demo from lecturer
+w03-170228-20-LR-Watching video about Basics of the Linux Boot Process, https://www.youtube.com/watch?v=yeMA7AJFtb8
+w03-170228-20-LR-Watching video about Linux Boot Sequence, https://www.youtube.com/watch?v=ALzySqflHJw
+w03-170228-21-LR-Watching video about Intro To Linux Week 6: Managing the Linux Boot Process, https://www.youtube.com/playlist?list=PLXEcKYHTGBdQPSchdZV2UONYf3ve0DCJK
+w03-170228-21-LR-Watching video about Intro To Linux Week 6: Managing the Linux Boot Process, https://www.youtube.com/playlist?list=PLXEcKYHTGBdQPSchdZV2UONYf3ve0DCJK
+w03-170228-22-LR-Watching video about Technical Note: UEFI BIOS vs. Legacy BIOS, Advantech(EN), https://www.youtube.com/watch?v=dRMIvY7BiL4
+w03-170228-22-LR-Watching video about Linux Bootloaders: GRUB & GRUB2 https://www.youtube.com/watch?v=ncWjbEbPJW4
+w03-170228-23-LR-Watching video about Professor Messer's CompTIA Linux+ Training  https://www.youtube.com/playlist?list=PLCDA423AB5CEC8FDB
+w03-170228-23-LR-Watching video about Professor Messer's CompTIA Linux+ Training  https://www.youtube.com/playlist?list=PLCDA423AB5CEC8FDB
+w03-170301-00-LR-Watching video about Professor Messer's CompTIA Linux+ Training  https://www.youtube.com/playlist?list=PLCDA423AB5CEC8FDB
+w03-170301-00-LR-Watching video about Professor Messer's CompTIA Linux+ Training  https://www.youtube.com/playlist?list=PLCDA423AB5CEC8FDB
+w03-170301-19-PS-Doing lab session
+w03-170301-19-PS-Doing lab session
+w03-170301-20-PS-Doing lab session
+w03-170301-20-PS-Doing lab session
+w03-170301-21-PS-Doing lab session
+w03-170301-21-PS-Doing lab session
+w03-170301-22-PS-bash exercises
+w03-170301-22-PS-bash exercises
+w03-170301-23-PS-bash exercises
+w03-170301-23-PS-bash exercises
+w03-170302-00-PS-bash exercises
+w03-170302-00-PS-bash exercises
+w03-170305-08-PS-GPG exercises
+w03-170305-08-PS-GPG exercises
+w03-170305-09-PS-GPG exercises
+w03-170305-09-PS-GPG exercises
