@@ -1,0 +1,34 @@
+w06-170411-16-LR-Watching demo from lecturer
+w06-170411-16-LR-Watching demo from lecturer
+w06-170411-17-LR-Watching demo from lecturer
+w06-170411-17-LR-Watching demo from lecturer
+w06-170411-20-LR-Watching video about Linux fork() Introduction,https://www.youtube.com/watch?v=9seb8hddeK4
+w06-170411-20-LR-Watching video about 25 Jan 2013: fork() and exec(),https://www.youtube.com/watch?v=B4XsjJcClLc
+w06-170411-21-LR-Watching video about 25 Jan 2013: fork() and exec(),https://www.youtube.com/watch?v=B4XsjJcClLc
+w06-170411-21-LR-Watching video about CSCI 3150: 2015-09-14 - fork() system call,https://www.youtube.com/watch?v=l5immPU7Jeo
+w06-170411-22-LR-Watching video about Critical Section (Software Solutions),https://www.youtube.com/watch?v=oOCBc76qLBw
+w06-170411-22-LR-Watching video about Process Synchronisation Concepts in Operating System,https://www.youtube.com/playlist?list=PLbu9W4c-C0iAGUc7dQlqXIsXkGnHMaTEz
+w06-170411-23-LR-Watching video about Process Synchronisation Concepts in Operating System,https://www.youtube.com/playlist?list=PLbu9W4c-C0iAGUc7dQlqXIsXkGnHMaTEz
+w06-170411-23-LR-Watching video about Process Synchronisation Concepts in Operating System,https://www.youtube.com/playlist?list=PLbu9W4c-C0iAGUc7dQlqXIsXkGnHMaTEz
+w06-170412-00-LR-Watching video about Process Synchronisation Concepts in Operating System,https://www.youtube.com/playlist?list=PLbu9W4c-C0iAGUc7dQlqXIsXkGnHMaTEz
+w06-170412-00-LR-Watching video about Process Synchronisation Concepts in Operating System,https://www.youtube.com/playlist?list=PLbu9W4c-C0iAGUc7dQlqXIsXkGnHMaTEz
+w06-170412-19-PS-Doing lab session
+w06-170412-19-PS-Doing lab session
+w06-170412-20-PS-Doing lab session
+w06-170412-20-PS-Doing lab session
+w06-170412-21-PS-Doing lab session
+w06-170412-21-PS-Doing lab session
+w06-170412-22-PS-Fork exercises
+w06-170412-22-PS-Fork exercises
+w06-170412-23-PS-Fork exercises
+w06-170412-23-PS-Fork exercises
+w06-170413-00-PS-Fork exercises
+w06-170413-00-PS-Fork exercises
+w06-170413-16-LR-Watching demo from lecturer
+w06-170413-16-LR-Watching demo from lecturer
+w06-170413-17-LR-Watching demo from lecturer
+w06-170413-17-LR-Watching demo from lecturer
+w06-170414-08-PS-Synchronization exercises
+w06-170414-08-PS-Synchronization exercises
+w06-170414-09-PS-Synchronization exercises
+w06-170414-09-PS-Synchronization exercises
