@@ -1,0 +1,34 @@
+w07-170422-16-LR-Watching demo from lecturer
+w07-170422-16-LR-Watching demo from lecturer
+w07-170422-17-LR-Watching demo from lecturer
+w07-170422-17-LR-Watching demo from lecturer
+w07-170422-20-LR-Watching video about Semaphores | Process Synchronization(Operating System) part -8,https://www.youtube.com/watch?v=VcVbUbPNIfw&index=8&list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD
+w07-170422-20-LR-Watching video about Semaphores|Continues | Process Synchronization(Operating System),https://www.youtube.com/watch?v=8KCeGWJBdSk&index=10&list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD
+w07-170422-21-LR-Watching video about Producer Consumer Problem | Semaphores (Operating System) part -13,https://www.youtube.com/watch?v=hyQz97Jym_w&index=13&list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD
+w07-170422-21-LR-Watching video about Reader Writer Problem | Semaphores (Operating System) part - 14,https://www.youtube.com/watch?v=kn2Okc2cAaQ&index=14&list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD
+w07-170422-22-LR-Watching video about peterson's Solution | Case 3(Operating System) part -6,https://www.youtube.com/watch?v=XAsAAJSotA4&list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD&index=6
+w07-170422-22-LR-Watching video about Process Synchronisation Concepts in Operating System,https://www.youtube.com/playlist?list=PLbu9W4c-C0iAGUc7dQlqXIsXkGnHMaTEz
+w07-170422-23-LR-Watching video about Process Synchronisation Concepts in Operating System,https://www.youtube.com/playlist?list=PLbu9W4c-C0iAGUc7dQlqXIsXkGnHMaTEz
+w07-170422-23-LR-Watching video about Process Synchronisation Concepts in Operating System,https://www.youtube.com/playlist?list=PLbu9W4c-C0iAGUc7dQlqXIsXkGnHMaTEz
+w07-170423-00-LR-Watching video about Process Synchronisation Concepts in Operating System,https://www.youtube.com/playlist?list=PLbu9W4c-C0iAGUc7dQlqXIsXkGnHMaTEz
+w07-170423-00-LR-Watching video about Process Synchronisation Concepts in Operating System,https://www.youtube.com/playlist?list=PLbu9W4c-C0iAGUc7dQlqXIsXkGnHMaTEz
+w07-170423-19-PS-Doing lab session
+w07-170423-19-PS-Doing lab session
+w07-170423-20-PS-Doing lab session
+w07-170423-20-PS-Doing lab session
+w07-170423-21-PS-Doing lab session
+w07-170423-21-PS-Doing lab session
+w07-170423-22-PS-Semaphore exercises
+w07-170423-22-PS-Semaphore exercises
+w07-170423-23-PS-Semaphore exercises
+w07-170423-23-PS-Semaphore exercises
+w07-170424-00-PS-Semaphore exercises
+w07-170424-00-PS-Semaphore exercises
+w07-170424-16-LR-Watching demo from lecturer
+w07-170424-16-LR-Watching demo from lecturer
+w07-170424-17-LR-Watching demo from lecturer
+w07-170424-17-LR-Watching demo from lecturer
+w07-170425-08-PS-Synchronization exercises
+w07-170425-08-PS-Synchronization exercises
+w07-170425-09-PS-Synchronization exercises
+w07-170425-09-PS-Synchronization exercises
