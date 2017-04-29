@@ -1,0 +1,34 @@
+w08-170426-16-LR-Watching demo from lecturer
+w08-170426-16-LR-Watching demo from lecturer
+w08-170426-17-LR-Watching demo from lecturer
+w08-170426-17-LR-Watching demo from lecturer
+w08-170426-20-LR-Watching video about Programming Interview: Process Scheduling in Operating System,https://www.youtube.com/watch?v=1fwxHAf1E88
+w08-170426-20-LR-Watching video about Programming Interview Process Scheduling in Operating System,https://www.youtube.com/watch?v=bET8p4tFPC8
+w08-170426-21-LR-Watching video about Christian Heimes - File descriptors, Unix sockets and other POSIX wizardry - PyCon 2016,https://www.youtube.com/watch?v=Ftg8fjY_YWU
+w08-170426-21-LR-Watching video about Socket Programming Basics (TheSecurityTube),https://www.youtube.com/playlist?list=PL0JmC-T2nhdgJ2Lw5YdufR8MffaQdAvEf
+w08-170426-22-LR-Watching video about Socket Programming Basics (TheSecurityTube),https://www.youtube.com/playlist?list=PL0JmC-T2nhdgJ2Lw5YdufR8MffaQdAvEf
+w08-170426-22-LR-Watching video about C Programming in Linux Tutorial #034 - Socket Programming,https://www.youtube.com/watch?v=pFLQkmnmD0o
+w08-170426-23-LR-Watching video about TCP/IP Programming in C,https://www.youtube.com/watch?v=V6CohFrRNTo
+w08-170426-23-LR-Watching video about TCP/IP and Subnet Masking ,https://www.youtube.com/watch?v=EkNq4TrHP_U
+w08-170427-00-LR-Watching video about TCP/IP and Subnet Masking ,https://www.youtube.com/watch?v=EkNq4TrHP_U
+w08-170427-00-LR-Watching video about How to make TCP Client Server Program in C ,https://www.youtube.com/watch?v=YqC-QDhL2U0
+w08-170427-19-PS-Doing lab session
+w08-170427-19-PS-Doing lab session
+w08-170427-20-PS-Doing lab session
+w08-170427-20-PS-Doing lab session
+w08-170427-21-PS-Doing lab session
+w08-170427-21-PS-Doing lab session
+w08-170427-22-PS-Scheduling exercises
+w08-170427-22-PS-Scheduling exercises
+w08-170427-23-PS-Scheduling exercises
+w08-170427-23-PS-Scheduling exercises
+w08-170428-00-PS-Scheduling exercises
+w08-170428-00-PS-Scheduling exercises
+w08-170428-16-LR-Watching demo from lecturer
+w08-170428-16-LR-Watching demo from lecturer
+w08-170428-17-LR-Watching demo from lecturer
+w08-170428-17-LR-Watching demo from lecturer
+w08-170429-08-PS-Socket exercises
+w08-170429-08-PS-Socket exercises
+w08-170429-09-PS-Socket exercises
+w08-170429-09-PS-Socket exercises
